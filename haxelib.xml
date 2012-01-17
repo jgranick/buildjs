@@ -1,0 +1,6 @@
+<project name="buildjs" url="http://www.joshuagranick.com" license="BSD">
+    <user name="elyon"/>
+    <tag v="js"/>
+    <description>Provides build tools for haxe JS projects</description>
+    <version name="1.07">Added customizations for generating ExtJS externs (-extjs)</version>
+</project>

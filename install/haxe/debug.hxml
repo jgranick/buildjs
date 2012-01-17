@@ -1,0 +1,5 @@
+-main ::APP_MAIN:: ::HAXE_FLAGS::
+-js ::BUILD_DIR::/::target::/obj/::APP_MAIN::.js
+-cp ::BUILD_DIR::/::target::/haxe
+-debug
+
